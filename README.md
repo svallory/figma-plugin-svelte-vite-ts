@@ -4,6 +4,11 @@
 
 This template should help get you started developing your Figma plugin with Svelte and TypeScript in Vite.
 
+#### Inspired by...
+
+- [candidosales/figma-plugin-svelte-vite](https://github.com/candidosales/figma-plugin-svelte-vite/)
+- [thomas-lowry/figsvelte](https://github.com/thomas-lowry/figsvelte)
+
 ## Get to know the template!
 
 To make it easier to understand how the template is structured, I'll make small commits, trying to add one template feature per commit. That way you can see what it takes to add each feature. And, hopefully, be able to cherry-pick what you want in your plugin.
